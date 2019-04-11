@@ -1,0 +1,68 @@
+data_CaO
+_audit_creation_date              2019-04-10
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    4.8105
+_cell_length_b                    4.8105
+_cell_length_c                    4.8105
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+Ca1    Ca    0.00000   0.00000   0.00000   0.00000  Uiso   1.00
+Ca2    Ca    0.00000   0.50000   0.50000   0.00000  Uiso   1.00
+Ca3    Ca    0.50000   0.00000   0.50000   0.00000  Uiso   1.00
+Ca4    Ca    0.50000   0.50000   0.00000   0.00000  Uiso   1.00
+O5     O     0.50000   0.50000   0.50000   0.00000  Uiso   1.00
+O6     O     0.50000   0.00000   0.00000   0.00000  Uiso   1.00
+O7     O     0.00000   0.50000   0.00000   0.00000  Uiso   1.00
+O8     O     0.00000   0.00000   0.50000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+Ca1    O8      2.405   .     S
+Ca1    O8      2.405   1_554 S
+Ca1    O6      2.405   .     S
+Ca1    O6      2.405   1_455 S
+Ca1    O7      2.405   .     S
+Ca1    O7      2.405   1_545 S
+Ca2    O7      2.405   1_556 S
+Ca2    O5      2.405   .     S
+Ca2    O5      2.405   1_455 S
+Ca2    O8      2.405   1_565 S
+Ca3    O6      2.405   1_556 S
+Ca3    O8      2.405   1_655 S
+Ca3    O5      2.405   .     S
+Ca3    O5      2.405   1_545 S
+Ca4    O5      2.405   .     S
+Ca4    O5      2.405   1_554 S
+Ca4    O7      2.405   1_655 S
+Ca4    O6      2.405   1_565 S
+O5     Ca4     2.405   1_556 S
+O5     Ca2     2.405   1_655 S
+O5     Ca3     2.405   1_565 S
+O6     Ca3     2.405   1_554 S
+O6     Ca1     2.405   1_655 S
+O6     Ca4     2.405   1_545 S
+O7     Ca2     2.405   1_554 S
+O7     Ca4     2.405   1_455 S
+O7     Ca1     2.405   1_565 S
+O8     Ca1     2.405   1_556 S
+O8     Ca3     2.405   1_455 S
+O8     Ca2     2.405   1_545 S
