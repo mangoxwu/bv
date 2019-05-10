@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 *.pyc
-*.ipynb
+
 .idea/
 
 jupyter/
