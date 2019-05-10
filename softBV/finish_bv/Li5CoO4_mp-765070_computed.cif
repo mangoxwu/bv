@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Li5CoO4
+_symmetry_space_group_name_H-M   Pbca
+_cell_length_a   9.19176294
+_cell_length_b   9.20438893
+_cell_length_c   9.20471432
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   61
+_chemical_formula_structural   Li5CoO4
+_chemical_formula_sum   'Li40 Co8 O32'
+_cell_volume   778.76081465
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x, y+1/2, -z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  8  0.109315  0.160353  0.118487  1
+  Li  Li2  8  0.111497  0.642888  0.889873  1
+  Li  Li3  8  0.118159  0.605594  0.157483  1
+  Li  Li4  8  0.123705  0.105534  0.851644  1
+  Li  Li5  8  0.148310  0.125432  0.380477  1
+  Co  Co6  8  0.147752  0.618213  0.613600  1
+  O  O7  8  0.006881  0.745962  0.535916  1
+  O  O8  8  0.033773  0.000041  0.244546  1
+  O  O9  8  0.246776  0.740599  0.745851  1
+  O  O10  8  0.248520  0.016210  0.006636  1
